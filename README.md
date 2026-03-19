@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I'm Anand
 
-<!--
-**anand5674217/anand5674217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 SDE-3 @ Oracle | Java Backend Engineer  
+🚀 Building scalable systems using Spring Boot, Docker, and Microservices  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Exploring
+- JVM Internals  
+- Multithreading  
+- System Design  
+
+---
+
+## 🔧 Tech Stack
+- Java, Spring Boot  
+- MySQL, Redis  
+- Docker, Kafka  
+
+---
+
+## 📌 Projects (Work in Progress)
+- LeetCode Solutions (with explanations)
+- Custom Thread Pool (Java)
+- LRU Cache Design
+- Spring Boot Microservices  
+
+---
+
+## 📈 Goals
+- Crack OCP Java 21 Certification  
+- Become SDE-4 level engineer  
